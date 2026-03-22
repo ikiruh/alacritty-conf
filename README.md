@@ -9,7 +9,7 @@ A beautifully colored Alacritty configuration for Windows 11 that allows you to 
 * **Jetbrains Mono Nerd Font**
 * **WSL** >= 2.6.0
 
-## Instalation
+## Installation
 
 To make the config work, copy it to the appdata folder:
 
