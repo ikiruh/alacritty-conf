@@ -1,0 +1,46 @@
+[terminal.shell]
+program = "wsl.exe"
+args = ["~"]
+
+[window]
+decorations = "full"
+padding = { x = 5, y = 10 }
+decorations_theme_variant = "Dark"
+dynamic_title = true
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "SemiBold" }
+bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
+size = 12.0
+
+[colors.primary]
+background = "#282c34"
+foreground = "#dcdfe4"
+
+[colors.normal]
+black =   "#282c34"
+red =     "#e06c75"
+green =   "#98c379"
+yellow =  "#e5c07b"
+blue =    "#61afef"
+magenta = "#c678dd"
+cyan =    "#56b6c2"
+white =   "#dcdfe4"
+
+[colors.bright]
+black =   "#5c6370"
+red =     "#e06c75"
+green =   "#98c379"
+yellow =  "#e5c07b"
+blue =    "#61afef"
+magenta = "#c678dd"
+cyan =    "#56b6c2"
+white =   "#ffffff"
+
+[cursor]
+thickness = 0.2
+
+[cursor.style]
+shape = "Beam"
+blinking = "On"
